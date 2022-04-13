@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lgo1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "okruh I", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ 14.66652295729237, 50.087241717631791, 0.0 ], [ 14.666467937246511, 50.082248383205652, 0.0 ], [ 14.682933319859581, 50.079499081629933, 0.0 ], [ 14.684231249128739, 50.083046546693943, 0.0 ], [ 14.66654373952208, 50.08608968098163, 0.0 ] ] } }
+]
+}
